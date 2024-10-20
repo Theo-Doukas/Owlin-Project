@@ -1,4 +1,6 @@
 Exercise 2 - Financial risk identification
+
+
 In this exercise, you will be provided with a set of real news articles’ headers and abstracts. Your
 task is to analyze the content of these articles in order to find the articles that have financial risk
 themes (eg: bankruptcy and fines) for the companies specified below.
